@@ -57,6 +57,7 @@ class NoteDetailViewModel @Inject constructor(
     private var fetchNoteEventJob: Job? = null
 
     init {
+        Logg.d("Test work-230")
         loadNote()
     }
 
