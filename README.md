@@ -88,13 +88,12 @@ DevTodoNote는 개발자를 위한 작업 관리 도구입니다. GitHub 프로�
 
 ## **local.properties**
 
-baseUrl="https://github.com"
-githubClientId="Your client Id"
-githubSecretKey="Your Secret Key"
-githubRedirectUri="Your Redirect Uri"
-
-authApiHost="github.com"
-apiHost="api.github.com"
+- baseUrl="https://github.com"
+- githubClientId="Your client Id"
+- githubSecretKey="Your Secret Key"
+- githubRedirectUri="Your Redirect Uri"
+- authApiHost="github.com"
+- apiHost="api.github.com"
 
 ---
 
