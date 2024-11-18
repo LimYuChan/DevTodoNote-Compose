@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home">Home</string>
+    <string name="repo_private">Private</string>
+    <string name="repo_public">Public</string>
+    <string name="default_branch">Default branch</string>
+    <string name="last_updated">마지막 업데이트: %1$s</string>
+    <string name="unauthorized">로그인 세션이 만료되었습니다. 다시 로그인해주세요.</string>
+</resources>
