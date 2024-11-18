@@ -83,3 +83,40 @@ DevTodoNote는 개발자를 위한 작업 관리 도구입니다. GitHub 프로�
   - Room Database
 - **기타**:
   - Material Design
+ 
+# **스크린샷**
+
+|로그인 화면|로그인 실행 화면|
+|:---:|:---:|
+|![Screenshot_20241118-165301_DevTodoNote-Compose](https://github.com/user-attachments/assets/d84d6d50-e9d9-47d0-bba3-a0efdf33dcf4)|![login](https://github.com/user-attachments/assets/759188ce-2953-4921-a99e-da79bd874c29)|
+
+
+
+|Repository 화면|Repository 실행 화면|
+|:---:|:---:|
+|![Screenshot_20241118-165334_DevTodoNote-Compose](https://github.com/user-attachments/assets/4bac0602-e410-4791-85e8-bd9d496158b3)|![Repository](https://github.com/user-attachments/assets/f276424e-2276-44f3-9480-0ded094e8856)|
+
+
+|노트 내용 입력|노트 이미지 추가|
+|:---:|:---:|
+|![Content](https://github.com/user-attachments/assets/211bb399-cd51-40f1-b580-4c9cd8cadcfc)|![Image](https://github.com/user-attachments/assets/e5477448-a8e2-4716-aa4b-5b52372b1022)|
+
+
+|노트 참고 링크 추가|노트 브렌치 설정|
+|:---:|:---:|
+|![Link](https://github.com/user-attachments/assets/aaae4c5f-f8ed-459c-b79f-ade7650e3413)|![Branch](https://github.com/user-attachments/assets/297014b0-79a0-4892-8cb7-50cae920d5b7)|
+
+
+|노트 저장|노트 수정|
+|:---:|:---:|
+|![Save](https://github.com/user-attachments/assets/606aa3d3-8ffa-457a-be4d-ec0350ee4ebd)|![Edit](https://github.com/user-attachments/assets/b5c7e110-1d77-4998-9916-06934d1c58e8)|
+
+
+|브렌치 생성 후 커밋|브렌치 생성 후 커밋 상태 변경|
+|:---:|:---:|
+|![work230_test](https://github.com/user-attachments/assets/3de23e8d-440c-4fbb-9924-3909a3f054da)|![Commit](https://github.com/user-attachments/assets/2ae766eb-e5b6-4803-adfd-82db0f2d22b9)|
+
+
+|브렌치 머지|브렌치 머지 상태 변경 및 자동 Done 처리|
+|:---:|:---:|
+![work230_merge](https://github.com/user-attachments/assets/5f743887-7895-4450-8cd9-056328fcaaca)|![Merge](https://github.com/user-attachments/assets/d6f4f371-6e4b-488e-b87a-c87c4cbe4c8c)|
