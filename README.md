@@ -84,6 +84,20 @@ DevTodoNote는 개발자를 위한 작업 관리 도구입니다. GitHub 프로�
 - **기타**:
   - Material Design
  
+---
+
+## **local.properties**
+
+baseUrl="https://github.com"
+githubClientId="Your client Id"
+githubSecretKey="Your Secret Key"
+githubRedirectUri="Your Redirect Uri"
+
+authApiHost="github.com"
+apiHost="api.github.com"
+
+---
+
 # **스크린샷**
 
 |로그인 화면|로그인 실행 화면|
